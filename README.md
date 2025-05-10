@@ -1,2 +1,2 @@
 # Whatsapp
-This sort of a demo repo so i can learn Github
+I have this demo repo so i can learn Github
